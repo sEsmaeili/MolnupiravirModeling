@@ -9,10 +9,10 @@ Department of Cell Biology, University of Virginia; Charlottesville, VA, USA.
 
 Content includes:
 
-Python notebooks for figures 2, 4-6 
-individual NBA VL parameters
-individual NBA,PLATCOV,PANORAMIC VL parameters
-population NBA,PLATCOV,PANORAMIC VL parameters
-Molnupiravir population PK parameteres
-Molupiravir dose-specific PK parameters
-VL Data file for NBA cohort with variant information
+- Python notebooks for figures 2, 4-6 
+- individual NBA VL parameters
+- individual NBA,PLATCOV,PANORAMIC VL parameters
+- population NBA,PLATCOV,PANORAMIC VL parameters
+- Molnupiravir population PK parameteres
+- Molupiravir dose-specific PK parameters
+- VL Data file for NBA cohort with variant information
