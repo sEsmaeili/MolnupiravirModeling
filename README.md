@@ -6,3 +6,13 @@ Shadisadat Esmaeili (1), Katherine Owens (1), Jessica Wagoner (2), Stephen J. Po
 Fred Hutchinson Cancer Center, Vaccine and Infectious Diseases Division
 University of Washington, Department of Medicine
 Department of Cell Biology, University of Virginia; Charlottesville, VA, USA.
+
+Content includes:
+
+Python notebooks for figures 2, 4-6 
+individual NBA VL parameters
+individual NBA,PLATCOV,PANORAMIC VL parameters
+population NBA,PLATCOV,PANORAMIC VL parameters
+Molnupiravir population PK parameteres
+Molupiravir dose-specific PK parameters
+VL Data file for NBA cohort with variant information
